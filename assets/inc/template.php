@@ -161,20 +161,12 @@
                 <section class="topics"> 
                     <?php printArticles($sitemap[$current]["submenu"]); ?>
                 </section>
-            </div>
-            <?php if($isLandingPage) { ?>
+            </div>            
             <div class="large-3 columns show-for-large-up">
                 <div class="amazon-iframe right">
                     <iframe src="http://rcm-eu.amazon-adsystem.com/e/cm?t=wideeuro03-21&o=2&p=14&l=ur1&category=books&banner=1WWN136WPFJ146PKPAR2&f=ifr" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
                 </div>
-            </div>        
-            <?php } else { ?>
-            <div class="large-3 columns show-for-large-up" style="position:relative">
-                <div style="position:absolute; right:0; top:10px; width:170px; height:610px;">
-                    <iframe src="http://rcm-eu.amazon-adsystem.com/e/cm?t=wideeuro03-21&o=2&p=14&l=ur1&category=books&banner=1WWN136WPFJ146PKPAR2&f=ifr" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none; position:fixed;" frameborder="0"></iframe>
-                </div>
-            </div>
-            <?php } ?>            
+            </div>          
         </div>
         <section class="row show-for-small-only">
             <div class="small-12 columns">
