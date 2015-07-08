@@ -1,0 +1,16 @@
+<h2>Governance</h2>
+<p>Many think of governance in terms of the weak situation that exists in many of today's transition/developing countries - for example, Afghanistan and Pakistan. In Africa, the key issue is how to provide conditions of certainty, honesty, reliability, accountability and transparency that will build capacity in African politicians to: deliver quality public services that meet citizens' demands; overcome urban and rural poverty; increase domestic and foreign direct investment; and generate sustainable private sector development that will grow African economies away from aid dependence.
+<br/><a href="#" class="ellipsis-control"><span class="open">Read more&hellip;</span><span class="close">Show less&hellip;</span></a></p>
+<section class="ellipsis">
+    <p>As Tony Blair's Africa Governance Initiative says, "there is a consensus that Africa's growth and development will be led by Africans themselves&hellip; based on two principles, both of which arise from the findings of the 2005 Commission for Africa":
+    <ul>
+    	<li>without progress on governance - particularly the development of effective government systems and visionary political leadership - all other reforms will have limited effect in reducing poverty in Africa; and</li>
+    	<li>developing a thriving private sector through investment and reform is the only way to create sustainable development that will move Africa beyond aid.</li>
+    </ul>
+    <p>To improve governance, African leaders created an African Peer Review Mechanism in 2003 which 30 countries have joined. The system involves governments, civil society and the private sector, and encourages countries to adopt sound policies, priorities and standards for economic and political development: see <a href="http://www.guardian.co.uk/commentisfree/2011/feb/27/adekeye-adebajo-africa-economic-growth">Look at How Africa is Changing</a>.</p>
+    <p>Concerning the EU's link with Africa, details are given in <a href="http://www.africa-eu-partnership.org/">Africa and Europe in Partnership</a>.</p>
+    <p>But, the term good governance goes beyond national and local politics, and has to be applied at global and corporate levels, (as well as governance in cyberspace).</p>
+    <p>Global governance is not government but a minimum framework of principles, rules and laws that are  necessary to tackle global problems, and which are upheld by international organisations, national governments and other stakeholders.</p>
+    <p>Concerning global economic governance, "increased multilateralism can lead to increased congestion and contentiousness. The future of the G20, and the form of international cooperation that it represents, will depend on the ability of member nations to massage their differences, in order to strike a balance between the respective interests of the developed and developing worlds": (source - Global economic governance in transition, International Affairs, 3/86, May 2010, Page 617).</p>
+    <p>With respect to corporate financial governance, this relates to the behaviour of firms and their relationship with capital markets. Naked short-selling and its regulation (if desirable) is an important aspect of governance.</p>
+</section>

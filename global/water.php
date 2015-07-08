@@ -1,0 +1,7 @@
+<h2>Water</h2>
+<p>Credit Suisse has reported that annual world water use has risen sixfold during the past century, more than double the rate of population growth. By 2025, almost two-thirds of the global population will live in countries where water will be a scarce commodity. Some argue that the next World War will be fought over access to water. Asia looks vulnerable, with China possibly syphoning off Tibet's water supply to make up for shortages in the parched north. Elsewhere, the Israel-Palestine conflict is at least partly about securing supplies from the River Jordan. Similarly, water is a major feature of the strife in Sudan that has left Darfur devastated. Please see the following useful articles:</p>
+<ul>
+	<li><a href="http://www.guardian.co.uk/business/2007/dec/09/water.climatechange?gusrc=rss&amp;feed=networkfront">Guardian 2007 Article on Water</a></li>
+	<li><a href="http://www.southcentre.org/index.php?option=com_content&amp;view=article&amp;id=1378%3Asouth-bulletin-south-centre-issue-50-27-september-2010-the-global-crisis-of-water-shortage&amp;catid=79%3Asouth-bulletin-reflections-and-foresights&amp;Itemid=106&amp;lang=en">South Centre - Intergovernmental Policy Think Tank of Developing Countries</a></li>
+	<li><a href="http://ehsjournal.org/http:/ehsjournal.org/michael-bittner/water-shortages-threaten-global-security-maplecroft/2010/">Water Shortage Threatens Global Security</a></li>
+</ul>

@@ -1,0 +1,2 @@
+<h2>Partners</h2>
+<p>Many stakeholders impact on wider European policy and interests, each having its own agenda and set of peer partnerships. This complex includes (amongst others) aid agencies, faith groups, sources of finance, green groups, the G20, labour unions, the non-aligned movement, philanthropists, social entrepreneurs, spooks, think tanks (and preferably think-and-do tanks), universities and whistle blowers.</p>

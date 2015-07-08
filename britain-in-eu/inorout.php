@@ -1,0 +1,4 @@
+<h2>In or Out?</h2>                
+<p>WIDER EUROPE highlights events relevant to Britain's future membership of the EU, as well as Britain's relationship with the European neighbourhood.</p>
+<p>David Cameron outlined his view of Britain's future in the European Union in a high-risk strategy to test the willingness of Germany and France to offer the UK better membership terms. His view, which will offer a straight in-out referendum by 2017, is that Britain could drift inexorably towards exit unless there is an improved deal based on an agreed renegotiation timetable.</p>
+<p>On 13 July 2011, the British Parliament passed the European Union Act 2011. No British government will be able to sign up to a treaty change, or a so-called "ratchet clause" - the self-amending provisions brought in by the Lisbon Treaty - that shifts further powers from the UK to the EU, unless the British people consent in a referendum.</p>
