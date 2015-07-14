@@ -1,6 +1,7 @@
 # Wider Europe
 
 <h2>About Us</h2>
+<h3><a href="http://widereurope.eu" target="_blank">widereurope.eu</a></h3>
 <p>Despite the continuously changing dynamics of the European Union, we at WIDER EUROPE want the EU to:</p>
 <ul>
 <li>be enlarged further by admitting as member states Turkey, the Balkan countries and Iceland, as well as the Ukraine, Georgia and Moldova, once they have met the accession criteria;</li>
