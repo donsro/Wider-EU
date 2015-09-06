@@ -98,33 +98,37 @@
 <script src="/assets/js/foundation.min.js"></script>
 <script>
     $(document).foundation();
-    $.ajaxSetup({ cache: false });
+    // $.ajaxSetup({ cache: false });
     $(document).ready( function(){
         updateSongfInfo();
-        /*
-        var platformInfo = uaPlatform(navigator.userAgent);
-        if(platformInfo.platform.toLowerCase() == "ipad" || platformInfo.tablet.toLowerCase() == "ipad") {
-            $("#jquery_jplayer_1").jPlayer("option", "nativeVideoControls", {all: /./});
-        }
-        */
     });
     function updateSongfInfo() { loadMusicInfo(); window.setInterval(checkModified, 15000) }
     function checkModified() {
         $.ajax({
-            type: "HEAD",    
-            url: "./musicLogs/songinfo.txt",    
+            method: "HEAD",            
+            url: "musicLogs/song.xml",    
             ifModified: true, // forces check with server
-            success: function (result, textStatus, jqXHR) {
+            success: function (result, textStatus, jqXHR) {                
                 if (jqXHR.status === 200) {            
                     loadMusicInfo();
                 }
             }
         });
     }
-    function loadMusicInfo() {
-        $("#performer").load("./musicLogs/song.php");
-        $("#justPlayed").load("./musicLogs/playing.txt");
+    function loadMusicInfo() {        
+        $.ajax({
+            url: "musicLogs/song.xml",
+            dataType: "xml",
+            success: function (xml) {
+                var songTitle = $(xml).find("item").first().find("title").text();
+                $("#performer").text(songTitle);
+            },
+            error: function() {
+                $("#performer").text("Song title not available");
+            }
+        });
+        $("#justPlayed").load("musicLogs/playing.txt");
     }
-    </script>
+</script>
 </body>
 </html>
