@@ -110,9 +110,9 @@
             $(document).foundation();
             // $.ajaxSetup({ cache: false });
             $(document).ready( function(){
-                updateSongfInfo();
+                updateSongInfo();
             });
-            function updateSongfInfo() { loadMusicInfo(); window.setInterval(checkModified, 15000) }
+            function updateSongInfo() { loadMusicInfo(); window.setInterval(checkModified, 15000) }
             function checkModified() {
                 $.ajax({
                     method: "HEAD",
