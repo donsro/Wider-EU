@@ -79,7 +79,9 @@
             </header>
             <div class="row">
                 <div class="medium-9 columns">
-                    <section class="topics"><?php printArticles($sitemap[$current]["submenu"]); ?></section>
+                    <section class="topics">
+                        <?php printArticles($sitemap[$current]["submenu"]); ?>
+                    </section>
                 </div>
                 <div class="medium-3 columns show-for-medium-up">
                     <div class="amazon-iframe right">
