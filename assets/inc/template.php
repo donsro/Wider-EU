@@ -109,11 +109,6 @@
                 <ul class="left">
                     <?php createGlobalNav($sitemap, $current, false); ?>            
                 </ul>
-                <ul class="right">
-                    <li class="has-form">
-                        <a href="/TUNER/" id="listen-live" class="button radius" target="_blank">Listen Live</a>
-                    </li>
-                </ul>
             </section>            
             <?php } else { ?>
             <ul class="title-area">
@@ -142,7 +137,6 @@
       <ul class="off-canvas-list">
         <li><a href="/">Home</a></li>
         <?php createGlobalNav($sitemap, $current, true); ?>
-        <li><a href="/TUNER/" id="listen-live-small">Listen Live</a></li>
       </ul>
     </aside>
 
