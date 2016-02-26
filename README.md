@@ -1,7 +1,7 @@
 # Wider Europe
 
 
-### [ widereurope.eu ] ( http://widereurope.eu )
+### [widereurope.eu] (http://widereurope.eu)
 
 
 Despite the continuously changing dynamics of the European Union, we at WIDER EUROPE want the EU to:
